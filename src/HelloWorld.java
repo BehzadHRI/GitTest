@@ -7,7 +7,7 @@ public class HelloWorld {
         System.out.println("Goddag");
         System.out.println("Mojn");
 
-
+        System.out.println("HEJIGEN");
 
     }
 }
